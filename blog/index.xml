@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on 学汉字 | xhanzi.com</title>
-    <link>https://xhanzi.github.io/website/blog/</link>
+    <link>http://website.xhanzi.com/blog/</link>
     <description>Recent content in Blogs on 学汉字 | xhanzi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://xhanzi.github.io/website/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://website.xhanzi.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>https://xhanzi.github.io/website/blog/first/</link>
+      <link>http://website.xhanzi.com/blog/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xhanzi.github.io/website/blog/first/</guid>
+      <guid>http://website.xhanzi.com/blog/first/</guid>
       <description>My super sweet first blog post!!</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://xhanzi.github.io/website/blog/second/</link>
+      <link>http://website.xhanzi.com/blog/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xhanzi.github.io/website/blog/second/</guid>
+      <guid>http://website.xhanzi.com/blog/second/</guid>
       <description>My awesome blogpost My super sweet second blog post</description>
     </item>
     
