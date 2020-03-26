@@ -1,4 +1,4 @@
-baseURL: https://xhanzi.github.io/website/
+baseURL: http://website.xhanzi.com
 languageCode: en-us
 title: 学汉字 | xhanzi.com
 theme: hugo-fresh
