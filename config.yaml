@@ -1,9 +1,8 @@
-baseURL: http://website.xhanzi.com/
+baseURL: https://website.xhanzi.com/
 languageCode: en-us
 title: 学汉字 | xhanzi.com
 theme: hugo-fresh
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
-# Disables warnings
+googleAnalytics: UA-64222683-2 # Put in your tracking code without quotes like this: UA-XXXXXX...
 
 disableKinds:
 - taxonomy
