@@ -1,6 +1,6 @@
 baseURL: https://website.xhanzi.com/
 languageCode: en-us
-title: 学汉字 | xhanzi.com
+title: 学汉字 | xhanzi.com | 平台建设中 | The website is under construction
 theme: hugo-fresh
 googleAnalytics: UA-64222683-2 # Put in your tracking code without quotes like this: UA-XXXXXX...
 
@@ -29,70 +29,62 @@ params:
     # Main hero title
     title: 在线学汉字
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: 通过在线互动平台发现汉字趣味
     # Button text
     buttontext: 开始学习
     # Where the main hero button links to
-    buttonlink: /class
+    buttonlink: /
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: 在线学习
+  - title: 汉字查询
     url: /
-  - title: 汉字圈
+  - title: 在线学习
     sublinks:
-    - title: 汉字论坛
-      url: https://forum.xhanzi.com
-    - title: 团队博客
-      url: https://blog.xhanzi.com
-  - title: 学生反馈
+    - title: 识字游戏
+      url: /
+    - title: 汉字手工
+      url: /
+    - title: 汉字漫画
+      url: /
+    - title: 在线书写练习
+      url: /
+    - title: 汉字短视频
+      url: /
+  - title: 课程表
     url: /
   - title: 开始学习
     url: /
     button: true
   section1:
-    title: 丰富资源
-    subtitle: with great responsibility
+    title: 丰富的资源
+    subtitle: 
     tiles:
-    - title: 交互课堂
-      icon: mouse-globe
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: 开始学习
-    - title: 趣味游戏
-      icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: 开始学习
     - title: 在线练习
-      icon: plug-cloud
-      text: This is some explanatory text that is on two rows
+      icon: mouse-globe
+      text: 提供丰富的汉字查询库和在线书写练习AI批阅
       url: /
       buttonText: 开始学习
-  #section2:
-  #  title: You're here because you want the best
-  #  subtitle: And we know it
-  #  features:
-  #  - title: Powerful and unified interface
-  #    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-  #    # Icon (from /images/illustrations/icons/___.svg)
-  #    icon: laptop-globe
-  #  - title: Cross-device synchronisation
-  #    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-  #    icon: doc-sync
-  #  - title: Nomad system
-  #    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-  #    icon: mobile-feed
+    - title: 交互课堂
+      icon: laptop-cloud
+      text: 和专业教师在视频课堂中通过交互式学习掌握知识
+      url: /
+      buttonText: 开始学习
+    - title: 汉字乐园
+      icon: plug-cloud
+      text: 更多资源如汉字视频和手工游戏，玩着学汉字
+      url: /
+      buttonText: 开始学习
   section3:
-    title: One platform
-    subtitle: To rule them all
+    title: 在线学习平台
+    subtitle: 一站式学习、练习和寓教于乐平台
     image: illustrations/mockups/app-mockup.png
     buttonText: 开始学习
     buttonLink: /
   section4:
     title: 学生反馈
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    subtitle: 和我们一起学习汉字的同学们都是快乐的
     clients:
     - name: Irma Walters
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
@@ -111,51 +103,51 @@ params:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg
     # Social Media Title
-    socialmediatitle: follow us
+    socialmediatitle: 我们在这里
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia: # Icons are from Font Awesome
-    #- link: https://github.com/lucperkins/github-fresh
-    #  icon: github
-    #- link: https://dribbble.com/#
-    #  icon: dribbble
-    - link: https://facebook.com/#
+    - link: https://github.com/xhanzi/
+      icon: github
+    - link: /
       icon: facebook
-    - link: https://twitter.com/
+    - link: /
       icon: twitter
-    #- link: https://bitbucket.org/#
-    #  icon: bitbucket
+    - link: /
+      icon: wechat
     - link:
       icon: instagram
-    bulmalogo: false
+    bulmalogo: true
     quicklinks:
       column1:
-        title: "Product"
+        title: 关于
         links:
-        - text: Discover features
+        - text: 师资力量
           link: /
-        - text: Why choose our product?
+        - text: 公司简介
           link: /
-        - text: Compare features
+        - text: 教学特色
           link: /
-        - text: Our roadmap
+        - text: 价格优势
           link: /
-        - text: AGB
+        - text: 联系我们
+          link: /
+        - text: 招聘
           link: /agb
       column2:
-        title: "Docs"
+        title: 课程
         links:
-        - text: Get started
+        - text: 教学计划
           link: /
-        - text: User guides
+        - text: 教材推荐
           link: /
-        - text: Admin guide
+        - text: 课堂氛围
           link: /
-        - text: Developers
+        - text: 课程报名
           link: /
       column3:
-        title: "Blog"
+        title: 平台
         links:
-        - text: Latest news
-          link: /blog/first
-        - text: Tech articles
-          link: /blog/second
+        - text: 学生个人中心
+          link: /
+        - text: 后台管理
+          link: /admin/login
