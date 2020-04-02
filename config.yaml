@@ -31,58 +31,58 @@ params:
     # Hero subtitle (optional)
     subtitle: 通过在线互动平台发现汉字趣味
     # Button text
-    buttontext: 开始学习
+    buttontext: 免费加入
     # Where the main hero button links to
     buttonlink: /
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: 汉字查询
+  - title: 关于我们
     url: /
-  - title: 在线学习
+  - title: 在线资源
     sublinks:
-    - title: 识字游戏
+    - title: 汉字乐园
+      url: /
+    - title: 汉字读本
+      url: /
+    - title: 汉字屋
+      url: /
+    - title: 汉字闯关
       url: /
     - title: 汉字手工
       url: /
-    - title: 汉字漫画
-      url: /
-    - title: 在线书写练习
-      url: /
-    - title: 汉字短视频
-      url: /
   - title: 课程表
     url: /
-  - title: 开始学习
+  - title: 免费加入
     url: /
     button: true
   section1:
     title: 丰富的资源
     subtitle: 
     tiles:
-    - title: 在线练习
-      icon: mouse-globe
-      text: 提供丰富的汉字查询库和在线书写练习AI批阅
+    - title: 汉字字典
+      icon: doc-sync
+      text: 汉字学习工具书，AI加持汉字书写辅助，掌握汉语应用
       url: /
-      buttonText: 开始学习
+      buttonText: 免费加入
     - title: 交互课堂
-      icon: laptop-cloud
-      text: 和专业教师在视频课堂中通过交互式学习掌握知识
+      icon: laptop-globe
+      text: 加入在线课堂，系统学习汉字文化
       url: /
-      buttonText: 开始学习
+      buttonText: 免费加入
     - title: 汉字乐园
       icon: plug-cloud
-      text: 更多资源如汉字视频和手工游戏，玩着学汉字
+      text: 更多课后汉字视频和小游戏，更多资源边玩边学
       url: /
-      buttonText: 开始学习
-  section3:
+      buttonText: 免费加入
+  section2:
     title: 在线学习平台
     subtitle: 一站式学习、练习和寓教于乐平台
     image: illustrations/mockups/app-mockup.png
-    buttonText: 开始学习
+    buttonText: 免费加入
     buttonLink: /
-  section4:
+  section3:
     title: 学生反馈
     subtitle: 和我们一起学习汉字的同学们都是快乐的
     clients:
@@ -98,7 +98,6 @@ params:
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
       job: HR Manager
       img: 3
-  section5: false
   footer:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg
@@ -108,46 +107,29 @@ params:
     socialmedia: # Icons are from Font Awesome
     - link: https://github.com/xhanzi/
       icon: github
-    - link: /
+    - link: https://fb.com
       icon: facebook
-    - link: /
+    - link: https://twitter.com
       icon: twitter
-    - link: /
+    - link: https://wechat.com
       icon: wechat
-    - link:
+    - link: https://insatgram.com
       icon: instagram
     bulmalogo: true
     quicklinks:
       column1:
         title: 关于
         links:
-        - text: 师资力量
-          link: /
-        - text: 公司简介
-          link: /
-        - text: 教学特色
-          link: /
-        - text: 价格优势
+        - text: 公司介绍
           link: /
         - text: 联系我们
           link: /
         - text: 招聘
           link: /agb
       column2:
-        title: 课程
-        links:
-        - text: 教学计划
-          link: /
-        - text: 教材推荐
-          link: /
-        - text: 课堂氛围
-          link: /
-        - text: 课程报名
-          link: /
-      column3:
         title: 平台
         links:
         - text: 学生个人中心
           link: /
         - text: 后台管理
-          link: /admin/login
+          link: /
