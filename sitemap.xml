@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://website.xhanzi.com/agb/</loc>
+    <loc>https://website.xhanzi.com/</loc>
+    <lastmod>2020-04-02T12:21:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://website.xhanzi.com/job/</loc>
+    <lastmod>2020-04-02T12:21:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://website.xhanzi.com/contact/</loc>
+    <lastmod>2020-04-02T12:20:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://website.xhanzi.com/about/</loc>
+    <lastmod>2020-04-02T12:19:13-05:00</lastmod>
   </url>
   
   <url>
@@ -16,10 +32,6 @@
   
   <url>
     <loc>https://website.xhanzi.com/blog/second/</loc>
-  </url>
-  
-  <url>
-    <loc>https://website.xhanzi.com/</loc>
   </url>
   
 </urlset>
