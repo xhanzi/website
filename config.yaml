@@ -25,7 +25,7 @@ params:
   font:
     name: "Hiragino Sans GB"
     sizes: [400,600]
-  hero:
+  banner:
     # Main hero title
     title: 在线学汉字
     # Hero subtitle (optional)
@@ -39,7 +39,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: 关于我们
-    url: /
+    url: /about/
   - title: 在线资源
     sublinks:
     - title: 汉字乐园
@@ -120,16 +120,16 @@ params:
       column1:
         title: 关于
         links:
-        - text: 公司介绍
-          link: /
+        - text: 关于我们
+          link: /about/
         - text: 联系我们
-          link: /
+          link: /contact/
         - text: 招聘
-          link: /agb
+          link: /job/
       column2:
         title: 平台
         links:
         - text: 学生个人中心
-          link: /
+          link: https://online.xhanzi.com/login
         - text: 后台管理
-          link: /
+          link: https://online.xhanzi.com/admin/login
