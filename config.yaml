@@ -61,7 +61,7 @@ params:
     title: 丰富的资源
     subtitle: 
     tiles:
-    - title: 汉字字典
+    - title: 汉字小助手
       icon: doc-sync
       text: 汉字学习工具书，AI加持汉字书写辅助，掌握汉语应用
       url: /
