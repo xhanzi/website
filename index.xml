@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>学汉字 | xhanzi.com | 平台建设中 | The website is under construction</title>
+    <title>学汉字 xhanzi.com | &lt;Under Development&gt;</title>
     <link>https://website.xhanzi.com/</link>
-    <description>Recent content on 学汉字 | xhanzi.com | 平台建设中 | The website is under construction</description>
+    <description>Recent content on 学汉字 xhanzi.com | &lt;Under Development&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Apr 2020 12:21:22 -0500</lastBuildDate>
@@ -55,6 +55,19 @@
       
       <guid>https://website.xhanzi.com/blog/second/</guid>
       <description>My awesome blogpost My super sweet second blog post</description>
+    </item>
+    
+    <item>
+      <title>课程体系</title>
+      <link>https://website.xhanzi.com/description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://website.xhanzi.com/description/</guid>
+      <description>课程目标 本课程的学习，共分6个阶段。根据汉字表意性特点，循序渐进系统学习汉字，锻炼用汉字思维、组织文字和读写汉字的能力。整个过程，学员将保持和国内同龄孩子同步的识字进度，累计认识常用汉字2500个，其中2000个左右会写。能对各类少儿读物进行无障碍阅读，能用已学的汉字进行较通顺的常用文体写作。
+
+教材蓝本 我们将部编小学语文课本作为识字蓝本，配套各类中文经典文本（参照《国家教育部+国家图书馆少年儿童馆推荐绘本书目》、《教育部推荐小学生必读书单》）作为辅助教材。
+
+教学内容    课程分阶 学习内容 课时（40分/课）     第一阶段 认识常用240个汉字，会写其中80个汉字，了解常用汉字部首变体；掌握汉字的基本笔画，养成良好的书写习惯；认读初级绘本。4.运用已学汉字，看图写话（句子）； 40课时（6个汉字/课时）   第二阶段 累计认识常用汉字560个左右，累计会写其中200个汉字；能较规范地书写汉字；认读中级绘本；运用已学汉字，看图写话（段落）； 40课时（6-8个汉字/课时）   第三阶段 累计认识常用汉字960个左右，累计会写其中450个汉字；能较熟练地书写汉字；认读高级绘本；运用已学汉字，看图写话（故事）； 40课时（8-10个汉字/课时）   第四阶段 累计认识常用汉字1360个左右，累计会写其中600汉字；书写规范，有一定的速度；认读初级经典文本；运用已学汉字，进行100字的话题书面表达； 40课时（8-10个汉字/课时）   第五阶段 累计认识常用汉字1860个左右，累计会写其中1000汉字；比较规范流畅的书写；认读中级经典文本；运用已学汉字，进行150字以上的话题书面表达； 50课时（10-12个汉字/课时）   第六阶段 累计认识常用汉字2500个，累计会写其中1500汉字；比较规范流畅的书写；认读高级经典文本；运用已学汉字，进行300字的话题书面表达； 50课时（10-12个汉字/课时）     </description>
     </item>
     
   </channel>
