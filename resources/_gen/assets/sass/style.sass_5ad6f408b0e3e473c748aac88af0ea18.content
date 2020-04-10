@@ -1726,7 +1726,8 @@ a.box:active {
 .content h6 {
   color: #363636;
   font-weight: 600;
-  line-height: 1.125; }
+  line-height: 1.125;
+  margin: 1.5em 1.5em; }
 
 .content h1 {
   font-size: 2em;
@@ -2965,8 +2966,9 @@ a.box:active {
   .table th {
     border: 1px solid #dbdbdb;
     border-width: 0 0 1px;
-    padding: 0.5em 0.75em;
-    vertical-align: top; }
+    padding: 0.5em 1em;
+    vertical-align: top;
+    border-collapse: collapse; }
     .table td.is-white,
     .table th.is-white {
       background-color: white;
@@ -3032,7 +3034,7 @@ a.box:active {
         color: currentColor; }
   .table th {
     color: #363636;
-    text-align: left; }
+    text-align: center; }
   .table tr.is-selected {
     background-color: #00d1b2;
     color: #fff; }
@@ -3046,11 +3048,18 @@ a.box:active {
   .table thead td,
   .table thead th {
     border-width: 0 0 2px;
-    color: #363636; }
+    color: #363636;
+    border-right-width: 0; }
+  .table thead td:first-child,
+  .table thead th:first-child {
+    border-right-width: 1px; }
   .table tfoot td,
   .table tfoot th {
     border-width: 2px 0 0;
     color: #363636; }
+  .table tbody tr td:first-child,
+  .table tbody tr th:first-child {
+    border-right-width: 1px; }
   .table tbody tr:last-child td,
   .table tbody tr:last-child th {
     border-bottom-width: 0; }
@@ -3071,6 +3080,8 @@ a.box:active {
     padding: 0.25em 0.5em; }
   .table.is-striped tbody tr:not(.is-selected):nth-child(even) {
     background-color: #fafafa; }
+  .table div {
+    padding: 0 1em; }
 
 .table-container {
   -webkit-overflow-scrolling: touch;

@@ -3,7 +3,8 @@ $table-background-color: $white !default
 
 $table-cell-border: 1px solid $grey-lighter !default
 $table-cell-border-width: 0 0 1px !default
-$table-cell-padding: 0.5em 0.75em !default
+$table-cell-padding: 0.5em 1em !default
+$table-div-padding: 0 1em !default
 $table-cell-heading-color: $text-strong !default
 
 $table-head-cell-border-width: 0 0 2px !default
@@ -29,6 +30,7 @@ $table-striped-row-even-hover-background-color: $white-ter !default
     border-width: $table-cell-border-width
     padding: $table-cell-padding
     vertical-align: top
+    border-collapse: collapse
     // Colors
     @each $name, $pair in $colors
       $color: nth($pair, 1)
@@ -49,7 +51,7 @@ $table-striped-row-even-hover-background-color: $white-ter !default
         color: currentColor
   th
     color: $table-cell-heading-color
-    text-align: left
+    text-align: center
   tr
     &.is-selected
       background-color: $table-row-active-background-color
@@ -66,6 +68,10 @@ $table-striped-row-even-hover-background-color: $white-ter !default
     th
       border-width: $table-head-cell-border-width
       color: $table-head-cell-color
+      border-right-width: 0
+    td:first-child,
+    th:first-child
+      border-right-width: 1px
   tfoot
     td,
     th
@@ -73,6 +79,9 @@ $table-striped-row-even-hover-background-color: $white-ter !default
       color: $table-foot-cell-color
   tbody
     tr
+      td:first-child,
+      th:first-child
+        border-right-width: 1px
       &:last-child
         td,
         th
@@ -108,6 +117,8 @@ $table-striped-row-even-hover-background-color: $white-ter !default
       tr:not(.is-selected)
         &:nth-child(even)
           background-color: $table-striped-row-even-background-color
+  div
+    padding: $table-div-padding
 
 .table-container
   +block
