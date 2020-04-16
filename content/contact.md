@@ -1,7 +1,9 @@
 ---
-title: "联系我们"
-date: 2020-04-02T12:20:31-05:00
+title: 联系我们
 draft: false
+
+Subtitle: Contact
+include_footer: true
 ---
 
-联系我们的内容
+

@@ -1706,6 +1706,10 @@ a.box:active {
     .container {
       max-width: 1152px;
       width: 1152px; } }
+  .container ul,
+  .container ol {
+    list-style-position: inside; }
+
 .content li + li {
   margin-top: 0.25em; }
 
@@ -1765,12 +1769,14 @@ a.box:active {
   padding: 1.25em 1.5em; }
 
 .content ol {
-  list-style: decimal outside;
+  list-style: decimal;
+  list-style-position: inside;
   margin-left: 2em;
   margin-top: 1em; }
 
 .content ul {
-  list-style: disc outside;
+  list-style: disc;
+  list-style-position: inside;
   margin-left: 2em;
   margin-top: 1em; }
   .content ul ul {
@@ -3080,8 +3086,6 @@ a.box:active {
     padding: 0.25em 0.5em; }
   .table.is-striped tbody tr:not(.is-selected):nth-child(even) {
     background-color: #fafafa; }
-  .table div {
-    padding: 0 1em; }
 
 .table-container {
   -webkit-overflow-scrolling: touch;
@@ -4839,7 +4843,8 @@ label.panel-block {
     border-color: #3273dc;
     color: #fff;
     z-index: 1; }
-  .tabs.is-toggle ul {
+  .tabs.is-toggle ul,
+  .tabs.is-toggle ol {
     border-bottom: none; }
   .tabs.is-toggle.is-toggle-rounded li:first-child a {
     border-bottom-left-radius: 290486px;

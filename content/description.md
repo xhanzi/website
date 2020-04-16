@@ -2,7 +2,7 @@
 title: 课程体系
 draft: false
 
-Subtitle: 课程介绍
+Subtitle: CURRICULUM STRUCTURE
 include_footer: true
 ---
 
