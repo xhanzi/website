@@ -6,38 +6,9 @@
     <description>Recent content on 学汉字 xhanzi.com | &lt;Under Development&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2020 12:21:22 -0500</lastBuildDate>
     
 	<atom:link href="https://website.xhanzi.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>招聘</title>
-      <link>https://website.xhanzi.com/job/</link>
-      <pubDate>Thu, 02 Apr 2020 12:21:22 -0500</pubDate>
-      
-      <guid>https://website.xhanzi.com/job/</guid>
-      <description>招聘的内容
-这里可以插HTML代码</description>
-    </item>
-    
-    <item>
-      <title>联系我们</title>
-      <link>https://website.xhanzi.com/contact/</link>
-      <pubDate>Thu, 02 Apr 2020 12:20:31 -0500</pubDate>
-      
-      <guid>https://website.xhanzi.com/contact/</guid>
-      <description>联系我们的内容</description>
-    </item>
-    
-    <item>
-      <title>关于我们</title>
-      <link>https://website.xhanzi.com/about/</link>
-      <pubDate>Thu, 02 Apr 2020 12:19:13 -0500</pubDate>
-      
-      <guid>https://website.xhanzi.com/about/</guid>
-      <description>关于我们的内容</description>
-    </item>
     
     <item>
       <title>First</title>
@@ -55,6 +26,35 @@
       
       <guid>https://website.xhanzi.com/blog/second/</guid>
       <description>My awesome blogpost My super sweet second blog post</description>
+    </item>
+    
+    <item>
+      <title>关于我们</title>
+      <link>https://website.xhanzi.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://website.xhanzi.com/about/</guid>
+      <description>XHANZI EDUCATION 成立于2019年，总部位于加拿大中部的温尼伯市。我们的团队成员具备丰富的海内外汉语教育经验，并且具有中国汉办颁发的《国际汉语教师资格证书》等相关资质，我们自主开发的汉字在线教学平台和基于AI的在线练习服务，让汉字学习更高效的同时，让学习过程也更加有趣。让我们竭诚为学生提供汉字学习的全方位服务。</description>
+    </item>
+    
+    <item>
+      <title>招聘</title>
+      <link>https://website.xhanzi.com/job/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://website.xhanzi.com/job/</guid>
+      <description>汉语教师 针对4-12岁孩子进行线上汉字教学
+
+职位要求  普通话水平在二级甲等以上，发音标准； 具有2年以上教学经验，具有大学以上学历，有汉语作为第二语言教学经验为佳，持有《国际汉语教师资格证书》者优先； 中级以上英语水平； 无不良嗜好，人品正直，热爱教育行业。  </description>
+    </item>
+    
+    <item>
+      <title>联系我们</title>
+      <link>https://website.xhanzi.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://website.xhanzi.com/contact/</guid>
+      <description></description>
     </item>
     
     <item>
