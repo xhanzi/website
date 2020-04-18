@@ -20,3 +20,6 @@ include_footer: true
 3. 中级以上英语水平；
 4. 无不良嗜好，人品正直，热爱教育行业。
 
+{{% title5 "联系" %}}
+
+Email: info@xhanzi.com
