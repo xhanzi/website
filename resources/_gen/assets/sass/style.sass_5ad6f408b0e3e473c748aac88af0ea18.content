@@ -3581,7 +3581,7 @@ a.dropdown-item {
   flex-shrink: 0; }
 
 .media-left {
-  margin-right: 1rem; }
+  margin: 1.5rem 1.5rem 0 0; }
 
 .media-right {
   margin-left: 1rem; }

@@ -79,16 +79,16 @@ params:
     - title: AI助力汉字教与学，H5打造互动教学资源
       text: 自主研发AI程序可以对汉字习作进行自动批阅、学情分析，辅助教师精准施教，实现教学相长。力推H5 汉字教学资源的制作，跨平台轻松实现趣味十足的交互教学活动。
       # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
+      icon: science
     - title: “场景教学”、“字源追溯”让学汉字更有意思
       text: 在符合语言学习规律之上，推出场景式教学方案。与课程同步的丰富场景，让汉字教学走进孩子们的日常，力求识用结合。同时从象形字入手，识字就像看图画，轻松又有趣。
-      icon: doc-sync
+      icon: bell
     - title: 识字与听说读写结合、识字与中国文化结合
       text: 本着“字不离词、词不离句、句不离篇”随文识字的理念，将汉字学习融入到经典文本的认读写训练中，重复渐进。培养汉字思维，体会汉字魅力。 
-      icon: mobile-feed
+      icon: geography
     - title: 学做汉字手工，换个角度学汉字
       text: 依据汉字的多变结构和造型，推出系列充满表现力的汉字手工游戏。孩子们可以动手把汉字变成一件件趣味十足的艺术品。
-      icon: plug-cloud
+      icon: design
   section3:
     title: 在线学习平台
     subtitle: 一站式学习、练习和寓教于乐平台
