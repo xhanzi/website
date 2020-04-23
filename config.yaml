@@ -112,7 +112,7 @@ params:
       icon: wechat
     - link: https://insatgram.com
       icon: instagram
-    bulmalogo: false
+    bulmalogo: true
     quicklinks:
       column1:
         title: 关于
