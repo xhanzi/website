@@ -127,6 +127,8 @@ params:
         title: 平台
         links:
         - text: 学生个人中心
-          link: https://online.xhanzi.com/login
+          link: https://online.xhanzi.com/
         - text: 后台管理
           link: https://online.xhanzi.com/admin/login
+        - text: AI手写数据生成
+          link: /writing/
