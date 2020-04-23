@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>学汉字 xhanzi.com | &lt;Under Development&gt;</title>
-    <link>https://website.xhanzi.com/</link>
+    <link>https://xhanzi.com/</link>
     <description>Recent content on 学汉字 xhanzi.com | &lt;Under Development&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh</language>
     
-	<atom:link href="https://website.xhanzi.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xhanzi.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>https://website.xhanzi.com/blog/first/</link>
+      <link>https://xhanzi.com/blog/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://website.xhanzi.com/blog/first/</guid>
+      <guid>https://xhanzi.com/blog/first/</guid>
       <description>My super sweet first blog post!!</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://website.xhanzi.com/blog/second/</link>
+      <link>https://xhanzi.com/blog/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://website.xhanzi.com/blog/second/</guid>
+      <guid>https://xhanzi.com/blog/second/</guid>
       <description>My awesome blogpost My super sweet second blog post</description>
     </item>
     
     <item>
       <title>关于我们</title>
-      <link>https://website.xhanzi.com/about/</link>
+      <link>https://xhanzi.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://website.xhanzi.com/about/</guid>
+      <guid>https://xhanzi.com/about/</guid>
       <description>XHANZI EDUCATION 成立于2019年，总部位于加拿大中部的温尼伯市。我们的团队成员具备丰富的海内外汉语教育经验，并且具有中国汉办颁发的《国际汉语教师资格证书》等相关资质，我们自主开发的汉字在线教学平台和基于AI的在线练习服务，让汉字学习更高效的同时，也让学习过程更加有趣。让我们竭诚为学生提供汉字学习的全方位服务。</description>
     </item>
     
     <item>
       <title>招聘</title>
-      <link>https://website.xhanzi.com/job/</link>
+      <link>https://xhanzi.com/job/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://website.xhanzi.com/job/</guid>
+      <guid>https://xhanzi.com/job/</guid>
       <description>汉语教师 职位描述  针对4-12岁孩子进行汉语线上教学工作； 根据学生学习情况及学习问题，制定合理的学习和授课计划； 积极参与培训及教研工作，提升教学质量； 可在家办公。  
 职位要求  普通话水平在二级甲等以上，发音标准，有2年以上全职教学经验； 国际汉语教育专业，英文口语流利，持有《国际汉语教师资格证书》者优先； 无不良嗜好，人品正直，热爱教育事业。  
 网页前端工程师 职位描述  负责前端框架搭建，组件，页面开发，根据产品需求，实现产品界面和交互功能，提高用户体验度； 编写高质量、可维护性的代码，并撰写相关技术文档；对于通用技术积累形成前端通用组件库； 主导前端整体架构设计，对团队整个业务的选型和架构进行把控；和后台工程师、客户端工程师共同制定技术实现方案、接口规范等，为用户提供优质的Web前端； 参与产品评审，能提出可行的技术方案。  
@@ -52,19 +52,19 @@
     
     <item>
       <title>联系我们</title>
-      <link>https://website.xhanzi.com/contact/</link>
+      <link>https://xhanzi.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://website.xhanzi.com/contact/</guid>
+      <guid>https://xhanzi.com/contact/</guid>
       <description>Email: info@xhanzi.com</description>
     </item>
     
     <item>
       <title>课程体系</title>
-      <link>https://website.xhanzi.com/description/</link>
+      <link>https://xhanzi.com/description/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://website.xhanzi.com/description/</guid>
+      <guid>https://xhanzi.com/description/</guid>
       <description>课程目标 本课程的学习，共分6个阶段。根据汉字表意性特点，循序渐进系统学习汉字，锻炼用汉字思维、组织文字和读写汉字的能力。整个过程，学员将保持和国内同龄孩子同步的识字进度，累计认识常用汉字2500个，其中2000个左右会写。能对各类少儿读物进行无障碍阅读，能用已学的汉字进行较通顺的常用文体写作。
 
 教材蓝本 我们将部编小学语文课本作为识字蓝本，配套各类中文经典文本（参照《国家教育部+国家图书馆少年儿童馆推荐绘本书目》、《教育部推荐小学生必读书单》）作为辅助教材。
