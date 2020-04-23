@@ -1,5 +1,5 @@
-baseURL: https://website.xhanzi.com/
-languageCode: en-us
+baseURL: https://xhanzi.com/
+languageCode: zh
 title: 学汉字 xhanzi.com | <Under Development>
 theme: hugo-fresh
 googleAnalytics: UA-64222683-2 # Put in your tracking code without quotes like this: UA-XXXXXX...
