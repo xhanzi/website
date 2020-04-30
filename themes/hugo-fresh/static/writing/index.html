@@ -3,10 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <title>AI训练数据生成器</title>
+    <style type="text/css">
+    body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+    #canvas {
+        border: 1px solid #999;
+    }
+    .config-text {
+        cursor: pointer;
+    }
+    </style>
 </head>
-<body style="margin: 0; padding: 0; overflow: hidden;">
-    <canvas id="canvas" style="border: 1px solid #999;"></canvas>
-    <!--div class="config-text" onclick="setText()" style="cursor: pointer;">设置文字</div-->
+<body>
+    <canvas id="canvas"></canvas>
+    <!--div class="config-text" onclick="setText()">设置文字</div-->
+
     <script type="text/javascript">
     /*function setText() {
         let text = prompt('输入一个汉字', '');
