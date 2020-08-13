@@ -1,6 +1,6 @@
 baseURL: https://xhanzi.com/
 languageCode: zh
-title: 学汉字 xhanzi.com | <Under Development>
+title: 学汉字 xhanzi.com
 theme: hugo-fresh
 googleAnalytics: UA-64222683-2 # Put in your tracking code without quotes like this: UA-XXXXXX...
 
@@ -94,7 +94,7 @@ params:
     subtitle: 一站式学习、练习和寓教于乐平台
     image: illustrations/mockups/app-mockup.png
     buttonText: 免费加入
-    buttonLink: /
+    buttonLink: https://xue.xhanzi.com
   footer:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg
@@ -127,8 +127,10 @@ params:
         title: 平台
         links:
         - text: 学生个人中心
-          link: https://online.xhanzi.com/
+          link: https://xue.xhanzi.com/
         - text: 后台管理
-          link: https://online.xhanzi.com/admin/login
-        - text: AI手写数据生成
+          link: https://xue.xhanzi.com/admin
+        - text: "[TEST] 汉字游戏"
+          link: https://game.xhanzi.com
+        - text: 汉字手写数据生成v1
           link: /writing/
