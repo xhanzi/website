@@ -126,7 +126,7 @@ params:
       column2:
         title: 平台
         links:
-        - text: 学生个人中心
+        - text: 学习平台
           link: https://xue.xhanzi.com/
         - text: 后台管理
           link: https://xue.xhanzi.com/admin
