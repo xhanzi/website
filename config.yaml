@@ -3,6 +3,7 @@ languageCode: zh
 title: 学汉字 xhanzi.com
 theme: hugo-fresh
 googleAnalytics: UA-64222683-2 # Put in your tracking code without quotes like this: UA-XXXXXX...
+IsServer: false # we dont use hugo built-in server
 
 disableKinds:
 - taxonomy
