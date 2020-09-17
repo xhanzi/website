@@ -22,7 +22,7 @@ params:
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/fresh.svg
-    link: /
+    link: https://xue.xhanzi.com/customer/register
   font:
     name: "Hiragino Sans GB"
     sizes: [400,600]
@@ -34,7 +34,7 @@ params:
     # Button text
     buttontext: 免费加入
     # Where the main hero button links to
-    buttonlink: /
+    buttonlink: https://xue.xhanzi.com/customer/register
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
   # Customizable navbar. For a dropdown, add a "sublinks" list.
@@ -52,7 +52,7 @@ params:
   - title: 课程表
     url: /
   - title: 免费加入
-    url: /
+    url: https://xue.xhanzi.com/customer/register
     button: true
   section1:
     title: 丰富的资源
@@ -61,17 +61,17 @@ params:
     - title: 识字小助手
       icon: doc-sync
       text: 汉字笔顺演示、有声词卡，AI加持汉字书写辅助
-      url: /
+      url: https://xue.xhanzi.com/customer/register
       buttonText: 免费加入
     - title: 交互课堂
       icon: laptop-globe
       text: 加入在线课堂，和专业教师通过直播互动的方式学汉字
-      url: /
+      url: https://xue.xhanzi.com/customer/register
       buttonText: 免费加入
     - title: 汉字乐园
       icon: plug-cloud
       text: 汉字手工、闯关游戏、有声绘本，更多资源体验汉字乐趣
-      url: /
+      url: https://xue.xhanzi.com/customer/register
       buttonText: 免费加入
   section2:
     title: 学汉字 xhanzi.com
@@ -95,7 +95,7 @@ params:
     subtitle: 一站式学习、练习和寓教于乐平台
     image: illustrations/mockups/app-mockup.png
     buttonText: 免费加入
-    buttonLink: https://xue.xhanzi.com
+    buttonLink: https://xue.xhanzi.com/customer/register
   footer:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg
