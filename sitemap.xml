@@ -15,10 +15,6 @@
   </url>
   
   <url>
-    <loc>https://xhanzi.com/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://xhanzi.com/</loc>
   </url>
   
@@ -32,6 +28,10 @@
   
   <url>
     <loc>https://xhanzi.com/description/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xhanzi.com/about/</loc>
   </url>
   
 </urlset>
