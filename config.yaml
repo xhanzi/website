@@ -1,6 +1,6 @@
 baseURL: https://xhanzi.com/
 languageCode: zh
-title: 学汉字 xhanzi.com
+title: 學漢字 xhanzi.com
 theme: hugo-fresh
 googleAnalytics: UA-64222683-2 # Put in your tracking code without quotes like this: UA-XXXXXX...
 IsServer: false # we dont use hugo built-in server
@@ -18,89 +18,83 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy 
-  description: 在线学汉字
+  description: 在線學漢字
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/fresh.svg
-    link: https://xue.xhanzi.com/customer/register
+    link: /
   font:
     name: "Hiragino Sans GB"
     sizes: [400,600]
   banner:
     # Main hero title
-    title: 在线学汉字
+    title: 在線學漢字
     # Hero subtitle (optional)
-    subtitle: 通过在线直播教学，实现教师、学生之间的即时互动，还原真实课堂，小伙伴们一起学习更快乐。
+    subtitle: 通過在線直播教學，實現教師、學生之間的即時互動，還原真實課堂，小夥伴們一起學習更快樂。
     # Button text
-    buttontext: 免费加入
+    buttontext: 免費加入
     # Where the main hero button links to
     buttonlink: https://xue.xhanzi.com/customer/register
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: 课程体系
+  - title: 課程體系
     url: /description/
-  - title: 在线资源
+  - title: 在線資源
     sublinks:
-    - title: 汉字读本
+    - title: 漢字讀本
       url: /
-    - title: 汉字闯关
+    - title: 漢字闖關
       url: /
-    - title: 汉字手工
+    - title: 漢字手工
       url: /
-  - title: 课程表
+  - title: 課程表
     url: /
-  - title: 免费加入
+  - title: 免費加入
     url: https://xue.xhanzi.com/customer/register
     button: true
   section1:
-    title: 丰富的资源
+    title: 豐富的資源
     subtitle: 
     tiles:
-    - title: 识字小助手
+    - title: 識字小助手
       icon: doc-sync
-      text: 汉字笔顺演示、有声词卡，AI加持汉字书写辅助
+      text: 漢字筆順演示、有聲詞卡，AI加持漢字書寫輔助
       url: https://xue.xhanzi.com/customer/register
-      buttonText: 免费加入
-    - title: 交互课堂
+      buttonText: 免費加入
+    - title: 交互課堂
       icon: laptop-globe
-      text: 加入在线课堂，和专业教师通过直播互动的方式学汉字
+      text: 加入在線課堂，和專業教師通過直播互動的方式學漢字
       url: https://xue.xhanzi.com/customer/register
-      buttonText: 免费加入
-    - title: 汉字乐园
+      buttonText: 免費加入
+    - title: 漢字樂園
       icon: plug-cloud
-      text: 汉字手工、闯关游戏、有声绘本，更多资源体验汉字乐趣
+      text: 漢字手工、闖關遊戲、有聲繪本，更多資源體驗漢字樂趣
       url: https://xue.xhanzi.com/customer/register
-      buttonText: 免费加入
+      buttonText: 免費加入
   section2:
-    title: 学汉字 xhanzi.com
-    subtitle: 是专门针对海外华裔少儿的在线汉字学习平台
+    title: 學漢字 xhanzi.com
+    subtitle: 是專門針對海外華裔少兒的在線漢字學習平台
     features:
-    - title: AI助力汉字教与学，H5打造互动教学资源
-      text: 自主研发AI程序可以对汉字习作进行自动批阅、学情分析，辅助教师精准施教，实现教学相长。力推H5 汉字教学资源的制作，跨平台轻松实现趣味十足的交互教学活动。
+    - title: AI助力漢字教與學，H5打造互動教學資源
+      text: 自主研发AI程序可以對漢字習作進行自動批閱、學情分析，輔助教師精準施教，實現教學相長。力推H5 漢字教學資源的制作，跨平台輕松實現趣味十足的交互教學活動。
       # Icon (from /images/illustrations/icons/___.svg)
       icon: science
-    - title: “场景教学”、“字源追溯”让学汉字更有意思
-      text: 在符合语言学习规律之上，推出场景式教学方案。与课程同步的丰富场景，让汉字教学走进孩子们的日常，力求识用结合。同时从象形字入手，识字就像看图画，轻松又有趣。
+    - title: “場景教學”、“字源追溯”讓學漢字更有意思
+      text: 在符合語言學習規律之上，推出場景式教學方案。與課程同步的豐富場景，讓漢字教學走進孩子們的日常，力求識用結合。同時從象形字入手，識字就像看圖畫，輕松又有趣。
       icon: bell
-    - title: 识字与听说读写结合、识字与中国文化结合
-      text: 本着“字不离词、词不离句、句不离篇”随文识字的理念，将汉字学习融入到经典文本的认读写训练中，重复渐进。培养汉字思维，体会汉字魅力。 
+    - title: 識字與聽說讀寫結合、識字與中國文化結合
+      text: 本著“字不離詞、詞不離句、句不離篇”隨文識字的理念，將漢字學習融入到經典文本的認讀寫訓練中，重覆漸進。培養漢字思維，體會漢字魅力。 
       icon: geography
-    - title: 学做汉字手工，换个角度学汉字
-      text: 依据汉字的多变结构和造型，推出系列充满表现力的汉字手工游戏。孩子们可以动手把汉字变成一件件趣味十足的艺术品。
+    - title: 學做漢字手工，換個角度學漢字
+      text: 依據漢字的多變結構和造型，推出系列充滿表現力的漢字手工遊戲。孩子們可以動手把漢字變成一件件趣味十足的藝術品。
       icon: design
-  section3:
-    title: 在线学习平台
-    subtitle: 一站式学习、练习和寓教于乐平台
-    image: illustrations/mockups/app-mockup.png
-    buttonText: 免费加入
-    buttonLink: https://xue.xhanzi.com/customer/register
   footer:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg
     # Social Media Title
-    socialmediatitle: 我们在这里
+    socialmediatitle: 我們在這里
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia: # Icons are from Font Awesome
     - link: https://github.com/xhanzi/
@@ -116,22 +110,22 @@ params:
     bulmalogo: true
     quicklinks:
       column1:
-        title: 关于
+        title: 關於
         links:
-        - text: 关于我们
+        - text: 關於我們
           link: /about/
-        - text: 联系我们
+        - text: 聯系我們
           link: /contact/
         - text: 招聘
           link: /job/
       column2:
         title: 平台
         links:
-        - text: 学习平台
+        - text: 學習平台
           link: https://xue.xhanzi.com/
-        - text: 后台管理
+        - text: 後台管理
           link: https://xue.xhanzi.com/admin
-        - text: "[TEST] 汉字游戏"
+        - text: "[TEST] 漢字遊戲"
           link: https://game.xhanzi.com
-        - text: 汉字手写数据生成v1
+        - text: 漢字手寫數據生成v1
           link: /writing/
