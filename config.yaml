@@ -21,7 +21,7 @@ params:
   description: 在線學漢字
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/fresh.svg
+    image: logos/fresh.png
     link: /
   font:
     name: "Hiragino Sans GB"
