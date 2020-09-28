@@ -43,14 +43,14 @@ params:
     url: /description/
   - title: 在線資源
     sublinks:
-    - title: 漢字讀本
+    - title: 漢字圖文讀本
       url: /
-    - title: 漢字闖關
+    - title: 漢字闖關遊戲
       url: /
-    - title: 漢字手工
+    - title: 漢字手工視頻
       url: /
-  - title: 課程表
-    url: /
+  - title: 線上課程
+    url: https://xue.xhanzi.com
   - title: 免費加入
     url: https://xue.xhanzi.com/customer/register
     button: true
