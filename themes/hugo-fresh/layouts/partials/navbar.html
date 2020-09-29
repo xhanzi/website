@@ -9,7 +9,7 @@
     <div class="navbar-brand">
       {{- if $navbarLogo}}
       <a class="navbar-item" href="{{ $navbarLogo.link }}">
-        <img src="{{ printf "/images/%s" $navbarLogo.image | relURL }}" alt="" width="108" height="36">
+        <img src="{{ printf "/images/%s" $navbarLogo.image | relURL }}" alt="" width="150" height="50">
       </a>
       {{- end}}
 
@@ -51,7 +51,7 @@
         {{- end }}
 
         <div class="navbar-end">
-          <a href="javascript:;" id="switchChinese" class="navbar-item">切換中文
+          <a href="javascript:;" id="switchChinese" class="navbar-item">简体中文
           </a>
           
           {{- range $navbar }}
