@@ -125,7 +125,7 @@ params:
           link: https://xue.xhanzi.com/
         - text: 後台管理
           link: https://xue.xhanzi.com/admin
-        - text: "[TEST] 漢字遊戲"
+        - text: "[Beta] 漢字遊戲"
           link: https://game.xhanzi.com
         - text: 漢字手寫數據生成v1
           link: /writing/
