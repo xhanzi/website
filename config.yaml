@@ -41,14 +41,14 @@ params:
   navbar:
   - title: 課程體系
     url: /description/
-  - title: 在線資源
-    sublinks:
-    - title: 漢字圖文讀本
-      url: /
-    - title: 漢字闖關遊戲
-      url: /
-    - title: 漢字手工視頻
-      url: /
+#  - title: 在線資源
+#    sublinks:
+#    - title: 漢字圖文讀本
+#      url: /
+#    - title: 漢字闖關遊戲
+#      url: /
+#    - title: 漢字手工視頻
+#      url: /
   - title: 線上課程
     url: https://xue.xhanzi.com
   - title: 免費加入
