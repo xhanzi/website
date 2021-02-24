@@ -1,37 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://xhanzi.com/blog/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://xhanzi.com/blog/first/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://xhanzi.com/blog/second/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://xhanzi.com/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://xhanzi.com/job/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://xhanzi.com/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://xhanzi.com/description/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://xhanzi.com/about/</loc>
   </url>
-  
 </urlset>
