@@ -2,7 +2,7 @@ baseURL: https://xhanzi.com/
 languageCode: zh
 title: 學漢字 xhanzi.com
 theme: hugo-fresh
-googleAnalytics: UA-64222683-2 # Put in your tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: G-1GBJPT7KG7 #UA-64222683-2 # Put in your tracking code without quotes like this: UA-XXXXXX...
 IsServer: false # we dont use hugo built-in server
 
 disableKinds:
