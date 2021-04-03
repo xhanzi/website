@@ -121,10 +121,8 @@ params:
       column2:
         title: 平台
         links:
-        - text: 學習平台
+        - text: 全部課程
           link: https://xue.xhanzi.com/
-        - text: 後台管理
-          link: https://admin.xhanzi.com/
         - text: AI手寫識別
           link: https://admin.xhanzi.com/#/write
         - text: 漢字筆畫拼寫遊戲
