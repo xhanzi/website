@@ -124,8 +124,8 @@ params:
         - text: 學習平台
           link: https://xue.xhanzi.com/
         - text: 後台管理
-          link: https://xue.xhanzi.com/admin
-        - text: "[Beta] 漢字遊戲"
-          link: https://game.xhanzi.com
-        - text: 漢字手寫數據生成v1
-          link: /writing/
+          link: https://admin.xhanzi.com/
+        - text: AI手寫識別
+          link: https://admin.xhanzi.com/#/write
+        - text: 漢字筆畫拼寫遊戲
+          link: https://admin.xhanzi.com/#/game1
