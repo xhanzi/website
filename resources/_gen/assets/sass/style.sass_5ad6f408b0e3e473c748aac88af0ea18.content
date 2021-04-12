@@ -185,13 +185,7 @@ legend,
 textarea,
 pre,
 iframe,
-hr,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+hr {
   margin: 0;
   padding: 0; }
 
@@ -201,11 +195,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-size: 100%;
-  font-weight: normal; }
-
-ul {
-  list-style: none; }
+  font-size: 100%; }
 
 button,
 input,
@@ -284,6 +274,10 @@ a {
     color: currentColor; }
   a:hover {
     color: #363636; }
+
+p {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem; }
 
 code {
   background-color: whitesmoke;
@@ -6422,7 +6416,8 @@ footer.footer-dark {
     margin-bottom: 20px; }
   footer.footer-dark .footer-column ul.link-list {
     line-height: 40px;
-    font-size: 1.1rem; }
+    font-size: 1.1rem;
+    list-style: none; }
     footer.footer-dark .footer-column ul.link-list a {
       color: #98a9c3;
       font-weight: 400;

@@ -118,6 +118,10 @@ params:
           link: /contact/
         - text: 招聘
           link: /job/
+        - text: Terms of Service
+          link: /terms_of_service/
+        - text: Privacy Policy
+          link: /privacy_policy/
       column2:
         title: 平台
         links:
