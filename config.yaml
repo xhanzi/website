@@ -41,6 +41,8 @@ params:
   navbar:
   - title: 課程體系
     url: /description/
+  - title: 免費資源
+    url: /page/download/
 #  - title: 在線資源
 #    sublinks:
 #    - title: 漢字圖文讀本
@@ -97,15 +99,15 @@ params:
     socialmediatitle: 我們在這里
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia: # Icons are from Font Awesome
-    - link: https://github.com/xhanzi/
+    - link: javascript:;
       icon: github
-    - link: https://fb.com
+    - link: javascript:;
       icon: facebook
-    - link: https://twitter.com
+    - link: javascript:;
       icon: twitter
-    - link: https://wechat.com
+    - link: javascript:;
       icon: wechat
-    - link: https://insatgram.com
+    - link: javascript:;
       icon: instagram
     bulmalogo: true
     quicklinks:
@@ -130,4 +132,4 @@ params:
         - text: AI手寫識別
           link: https://admin.xhanzi.com/#/write
         - text: 漢字筆畫拼寫遊戲
-          link: https://admin.xhanzi.com/#/game1
+          link: https://admin.xhanzi.com/#/game_pin
